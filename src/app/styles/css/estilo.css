@@ -1,0 +1,142 @@
+.component1{
+    height: 100%;
+    width: 400px;
+    background-color: #98befa;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;  
+    justify-content: center;
+    
+} 
+/* component é o nome do componente :) */ 
+
+.component2{
+
+    height: 30%;
+    width: 90%;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 9%;
+    margin: 70%;
+    border-color: black;
+    border-width: 10%;
+
+    
+
+}
+
+.component3{
+    
+    height: 100%;
+    width: 100%;
+    background-color: #a7c3f3;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+.component4{
+    top: 10%;
+    left: 31%;
+    width: 40%;
+    height: 44%;
+    display: flex;
+    position: absolute;
+    border-radius: 10px;
+    background-color: chocolate;
+    align-items: center;
+  
+}
+
+.component5{
+    top: 55%;
+    left: 31%;
+    width: 40%;
+    height: 44%;
+    display: flex;
+    position: absolute;
+    border-radius: 10px;
+    background-color: chocolate;
+    align-items: center;
+    
+}
+
+.textStyle3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    position: absolute;
+    top: 0;
+    left: 31.05%;
+    width: 50%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+
+    
+   
+      
+
+}
+
+.textStyle4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    position: absolute;
+    top: 0;
+    left: 81%;
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    
+   
+      
+
+}
+
+
+
+
+.imagemum{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    position: absolute;
+    margin: 10%;
+}
+
+.imagemdois{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    position: absolute;
+    left: 81%;
+}
+
+.textStyle1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    width: 80%;
+  
+    word-wrap: break-word;
+}
+
+.textStyle2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    width: 80%;
+ 
+}
+
+.input1{
+    border-radius: 20%;
+    height:25px;
+    width: 250px;
+    border-width: 2px;
+    
+}
